@@ -1,0 +1,39 @@
+Complete Generative AI Course with Langchain and HuggingFace
+
+NLP Concepts
+-------------
+Token Classification or NER
+Text Generation (RNN, LSTM, Encoder-Decoder)
+https://www.kaggle.com/code/manishguptads/deep-learning-text-generation-using-rnn/input
+
+https://www.kaggle.com/code/purvasingh/text-generation-via-rnn-and-lstms-pytorch
+
+https://huggingface.co/docs/datasets/en/create_dataset
+
+https://huggingface.co/docs/transformers/tasks/sequence_classification
+
+1. Text Classification
+2. Sentiment Analysis
+3. Summarization
+4. Topic Modeling
+5. Named Entity Recognition (NER) or Token Classification
+
+
+
+Image Classification
+---------------------
+Tensor flow or Keras
+Pytorch
+
+VGG (Visual Geometry Group)
+ImageNet
+ResNet (Residual Networks)
+Inception (GoogLeNet)
+EfficientNet
+DenseNet 
+NASNet (Neural Architecture Search Network)
+Xception (Extreme Inception)
+AlexNet
+Vision Transformers (ViT)
+
+
